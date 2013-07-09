@@ -1,0 +1,6 @@
+1368344731308	Rename field 'sNoteAppearAlpha'
+1368344756452	Rename field 'sNoteAppearScale'
+1368344767052	Rename field 'sNoteAppearTimeScale'
+1368388201576	Rename field 'sGameGoodTiming'
+1368388210003	Rename field 'sGameGreatTiming'
+1368689164698	Rename local variable 'hitPostion'
